@@ -1,0 +1,16 @@
+# Configuración local / credenciales
+php/config.php
+
+# Dependencias
+vendor/
+node_modules/
+
+# Variables de entorno
+.env
+.env.*
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+
